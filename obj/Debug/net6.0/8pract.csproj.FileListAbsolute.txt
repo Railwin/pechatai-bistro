@@ -1,0 +1,17 @@
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\8pract.exe
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\8pract.deps.json
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\8pract.runtimeconfig.json
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\8pract.dll
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\8pract.pdb
+C:\Users\railw\source\repos\8pract\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.AssemblyInfo.cs
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.csproj.CopyComplete
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.dll
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\refint\8pract.dll
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.pdb
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\8pract.genruntimeconfig.cache
+C:\Users\railw\source\repos\8pract\obj\Debug\net6.0\ref\8pract.dll
